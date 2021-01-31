@@ -32,6 +32,13 @@ public class Create : GameManager
         bicycle[Random.Range(0, bicycle.Length)]
             .CreateBonus(position,possibility);
     }
+    public void DoAllFalse()
+    {
+        for (int i = 0; i < bicycle.Length; i++)
+        {
+            bicycle[i].bonusObje.isTake = false;
+        }
+    }
 
     public void CreateRoad()
     {

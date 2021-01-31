@@ -34,6 +34,7 @@ public class GameMaster : MonoBehaviour
     [Header("Others")]
     public Bicycle bicycle;
     public Score score;
+    public Create create;
     
     
     [Header("Pooling")]
@@ -62,7 +63,7 @@ public class GameMaster : MonoBehaviour
     {
         if (bicycle.canIBuy)
         {
-            player.BuyBicycle();
+            player.BuyBicycle(create,bicycle);
            
         }
     }

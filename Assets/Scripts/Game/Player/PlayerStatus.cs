@@ -14,7 +14,7 @@ public class PlayerStatus : MonoBehaviour
     {
         this.timerText = timerText;
     }
-     IEnumerator BicycleTime()
+     IEnumerator BicycleTime(Create create,Bicycle bicycle)
     {
         float timer=10;
       
@@ -28,15 +28,18 @@ public class PlayerStatus : MonoBehaviour
         }
         GameMaster.SPEEDOFROAD -= GameMaster.BONUSSPEEDOFROAD;
         timerText.text = "0";
+        create.DoAllFalse();
+        bicycle.currentParts = 0;
+        bicycle.RestartCurrent();
         animation.SetBool("Bicycle",false);
       
     }
 
-    public void BuyBicycle()
+    public void BuyBicycle(Create create, Bicycle bicycle)
     {
         animation.SetBool("Bicycle",true);
         
-        StartCoroutine(BicycleTime());
+        StartCoroutine(BicycleTime(create, bicycle));
     }
     
     private void OnCollisionEnter2D(Collision2D collision)

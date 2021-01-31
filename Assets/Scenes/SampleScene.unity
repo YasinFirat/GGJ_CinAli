@@ -1477,7 +1477,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speedOfRoad: 5
   bonusSpeedOfRoad: 3
-  bonusScore: 0
+  bonusScore: 2
   startWeightRoad: 25
   minWeightOfRoad: 5
   maxWeightOfRoad: 10
@@ -1488,6 +1488,7 @@ MonoBehaviour:
   timerText: {fileID: 16828002}
   textScore: {fileID: 1204071965}
   hightScore: {fileID: 974271712}
+  create: {fileID: 1219956422}
   prefabGroups: {fileID: 1956193981}
   poolings:
   - MemberId: 0
@@ -2494,7 +2495,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1d8f3a75ebc38eb40a39c1e229d7b8cd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: be6179e7801b8dd499a567da8d8dc298, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

@@ -17,6 +17,12 @@ public class Bicycle
         textOfParts = text;
         textOfParts.text = currentParts + "/" + totalParts;
     }
+    public void RestartCurrent()
+    {
+        canIBuy = false;
+        textOfParts.text = currentParts + "/" + totalParts;
+
+    }
     public void AddPart()
     {
         currentParts++;
