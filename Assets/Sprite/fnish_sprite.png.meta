@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 6412e70fa870f224ab51bd9d19bdef8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6969872552776832070
+    second: fnish_sprite_0
+  - first:
+      213: -7559416159757925977
+    second: fnish_sprite_1
+  - first:
+      213: -1922152312647152451
+    second: fnish_sprite_2
+  - first:
+      213: 5345045045606975830
+    second: fnish_sprite_3
+  - first:
+      213: -5123113094051453474
+    second: fnish_sprite_4
+  - first:
+      213: -6856020832875481105
+    second: fnish_sprite_5
+  - first:
+      213: -3364561907161132509
+    second: fnish_sprite_6
+  - first:
+      213: -9189466505206705598
+    second: fnish_sprite_7
+  - first:
+      213: -1977354848942515619
+    second: fnish_sprite_8
+  - first:
+      213: 5293781497948604923
+    second: fnish_sprite_9
+  - first:
+      213: -2040962837115174775
+    second: fnish_sprite_10
+  - first:
+      213: 1208540957489699277
+    second: fnish_sprite_11
+  - first:
+      213: -4468335869552373991
+    second: fnish_sprite_12
+  - first:
+      213: -7367089530447803579
+    second: fnish_sprite_13
+  - first:
+      213: -4002663880240932423
+    second: fnish_sprite_14
+  - first:
+      213: 6851857063112371163
+    second: fnish_sprite_15
+  - first:
+      213: 7691251512592522067
+    second: fnish_sprite_16
+  - first:
+      213: -490001493416614883
+    second: fnish_sprite_17
+  - first:
+      213: 2581090805228051774
+    second: fnish_sprite_18
+  - first:
+      213: 7664962596198607089
+    second: fnish_sprite_19
+  - first:
+      213: -1968544079591546677
+    second: fnish_sprite_20
+  - first:
+      213: 7860237620884750659
+    second: fnish_sprite_21
+  - first:
+      213: 7618516952248722436
+    second: fnish_sprite_22
+  - first:
+      213: -8202389120177294731
+    second: fnish_sprite_23
+  - first:
+      213: -2541294015650122935
+    second: fnish_sprite_24
+  - first:
+      213: -684833051532784630
+    second: fnish_sprite_25
+  - first:
+      213: 2695041535855185912
+    second: fnish_sprite_26
+  - first:
+      213: -3274629304953021744
+    second: fnish_sprite_27
+  - first:
+      213: -5953800332380020597
+    second: fnish_sprite_28
+  - first:
+      213: -7712795823641295803
+    second: fnish_sprite_29
+  - first:
+      213: 3340761859641057036
+    second: fnish_sprite_30
+  - first:
+      213: 7653936584839522995
+    second: fnish_sprite_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fnish_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1044
+        width: 438
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a10840ed0f871790800000000000000
+      internalID: -7559416159757925977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1039
+        width: 449
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6598dd3562a6d2a40800000000000000
+      internalID: 5345045045606975830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1046
+        width: 448
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe777c390658ad0a0800000000000000
+      internalID: -6856020832875481105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1023
+        width: 414
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32299da85ccae41d0800000000000000
+      internalID: -3364561907161132509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1030
+        width: 335
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242ddc1c6e4787080800000000000000
+      internalID: -9189466505206705598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 545
+        width: 307
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a92e9cd360f84e0800000000000000
+      internalID: -1977354848942515619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 552
+        width: 371
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf903c7893a477940800000000000000
+      internalID: 5293781497948604923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 524
+        width: 283
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc91fa3099995c010800000000000000
+      internalID: 1208540957489699277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 519
+        width: 195
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fc13e63384df1c0800000000000000
+      internalID: -4468335869552373991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 524
+        width: 172
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bc825ca17d2c990800000000000000
+      internalID: -7367089530447803579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 491
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9d3fe686ea378c0800000000000000
+      internalID: -4002663880240932423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 496
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb609a32bfa61f50800000000000000
+      internalID: 6851857063112371163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 171
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b534e2080dcba60800000000000000
+      internalID: 7691251512592522067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 172
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14ed75ec3a2339f0800000000000000
+      internalID: -490001493416614883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 22
+        width: 171
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d15a28960e1d320800000000000000
+      internalID: 2581090805228051774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 0
+        width: 171
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8e21bdeda6f5a60800000000000000
+      internalID: 7664962596198607089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 483
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc06f33e6935ea4e0800000000000000
+      internalID: -1968544079591546677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 488
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3414ffa887c251d60800000000000000
+      internalID: 7860237620884750659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 423
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404a31eadc86ab960800000000000000
+      internalID: 7618516952248722436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 428
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572bd46ad824b2e80800000000000000
+      internalID: -8202389120177294731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 424
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943395f9e828bbcd0800000000000000
+      internalID: -2541294015650122935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 419
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c01f0d7fbfe76f0800000000000000
+      internalID: -684833051532784630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 408
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff42977ff5b66520800000000000000
+      internalID: 2695041535855185912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 403
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad0333ffd2e82d0800000000000000
+      internalID: -3274629304953021744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 388
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80e2ec642adf5da0800000000000000
+      internalID: -5953800332380020597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5448eb20015a6f490800000000000000
+      internalID: -7712795823641295803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 378
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f14131635cc5e20800000000000000
+      internalID: 3340761859641057036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnish_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 383
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bae9b885ce383a60800000000000000
+      internalID: 7653936584839522995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: cc62b71c804d39148affd22c90929dae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6937412621836880394
+    second: start split_0
+  - first:
+      213: -1143480901657773692
+    second: start split_1
+  - first:
+      213: 9136330721531183674
+    second: start split_2
+  - first:
+      213: -2549005543263460666
+    second: start split_3
+  - first:
+      213: 4390871248128372053
+    second: start split_4
+  - first:
+      213: 8486942047245830408
+    second: start split_5
+  - first:
+      213: 8052838945683418533
+    second: start split_6
+  - first:
+      213: -4601031422309128708
+    second: start split_7
+  - first:
+      213: 3348590655162067086
+    second: start split_8
+  - first:
+      213: 3441750039510113369
+    second: start split_9
+  - first:
+      213: -3013149968156779712
+    second: start split_10
+  - first:
+      213: 7174228935271676550
+    second: start split_11
+  - first:
+      213: -7897071619726189873
+    second: start split_12
+  - first:
+      213: -5457403784484353880
+    second: start split_13
+  - first:
+      213: -241737009855665606
+    second: start split_14
+  - first:
+      213: 3105145057961481810
+    second: start split_15
+  - first:
+      213: 957174779967964978
+    second: start split_16
+  - first:
+      213: 6624344648233365943
+    second: start split_17
+  - first:
+      213: 8292405345273335613
+    second: start split_18
+  - first:
+      213: -3845944543965343442
+    second: start split_19
+  - first:
+      213: -1388365358565868358
+    second: start split_20
+  - first:
+      213: 5338090457994409660
+    second: start split_21
+  - first:
+      213: -8847049190115226628
+    second: start split_22
+  - first:
+      213: 7224097423167319772
+    second: start split_23
+  - first:
+      213: 744107834535835415
+    second: start split_24
+  - first:
+      213: 7365395758075336483
+    second: start split_25
+  - first:
+      213: -1103716792266886062
+    second: start split_26
+  - first:
+      213: 7653673128671727930
+    second: start split_27
+  - first:
+      213: 375649960069596147
+    second: start split_28
+  - first:
+      213: 1391212046372531830
+    second: start split_29
+  - first:
+      213: -8448031813679533230
+    second: start split_30
+  - first:
+      213: 7834928385137216855
+    second: start split_31
+  - first:
+      213: 5162297264111883518
+    second: start split_32
+  - first:
+      213: -6931794497470622097
+    second: start split_33
+  - first:
+      213: -3496260175690528680
+    second: start split_34
+  - first:
+      213: 1314355163982161172
+    second: start split_35
+  - first:
+      213: 5920317232785975945
+    second: start split_36
+  - first:
+      213: -2188581563354035179
+    second: start split_37
+  - first:
+      213: -3427377131017954901
+    second: start split_38
+  - first:
+      213: 2545586004693502749
+    second: start split_39
+  - first:
+      213: -8512998124425753005
+    second: start split_40
+  - first:
+      213: 2560810283680145321
+    second: start split_41
+  - first:
+      213: -3581161340040276070
+    second: start split_42
+  - first:
+      213: 1359967313422926162
+    second: start split_43
+  - first:
+      213: 72496335533859741
+    second: start split_44
+  - first:
+      213: -6149996618531761540
+    second: start split_45
+  - first:
+      213: -6485081042899292797
+    second: start split_46
+  - first:
+      213: 6239930337033415384
+    second: start split_47
+  - first:
+      213: -7213198228071508747
+    second: start split_48
+  - first:
+      213: -8744073366577999004
+    second: start split_49
+  - first:
+      213: -2376369861427040368
+    second: start split_50
+  - first:
+      213: 1406178511998863887
+    second: start split_51
+  - first:
+      213: -4867308053108284790
+    second: start split_52
+  - first:
+      213: -1434106598437026457
+    second: start split_53
+  - first:
+      213: -7066509454327644837
+    second: start split_54
+  - first:
+      213: 4180885379391304361
+    second: start split_55
+  - first:
+      213: 3299964473188340278
+    second: start split_56
+  - first:
+      213: -430582648825717609
+    second: start split_57
+  - first:
+      213: 3318753990544110441
+    second: start split_58
+  - first:
+      213: 8034284184595691296
+    second: start split_59
+  - first:
+      213: 2235663750989193647
+    second: start split_60
+  - first:
+      213: -1749934200657102748
+    second: start split_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: start split_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2133
+        width: 801
+        height: 423
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5f917f9fb59bf90800000000000000
+      internalID: -6937412621836880394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start split_1
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2133
+        width: 762
+        height: 456
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489be39ad2a8120f0800000000000000
+      internalID: -1143480901657773692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start split_2
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 2133
+        width: 764
+        height: 435
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32ca578264cace70800000000000000
+      internalID: 9136330721531183674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start split_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1100
+        width: 576
+        height: 568
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2a74fa6fc10acd0800000000000000
+      internalID: -2549005543263460666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start split_4
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1097
+        width: 699
+        height: 737
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dea27e2228fec30800000000000000
+      internalID: 4390871248128372053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start split_5
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1101
+        width: 712
+        height: 830
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8090a6383dca7c570800000000000000
+      internalID: 8486942047245830408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start split_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 62
+        width: 922
+        height: 917
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad24e6fa5e61cf60800000000000000
+      internalID: 8052838945683418533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start split_7
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 58
+        width: 850
+        height: 983
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5aad87c4ad520c0800000000000000
+      internalID: -4601031422309128708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start split_8
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 60
+        width: 979
+        height: 1054
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88a0239575987e20800000000000000
+      internalID: 3348590655162067086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
